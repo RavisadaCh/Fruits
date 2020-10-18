@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fruits", "Fruits\Fruits.vcxproj", "{DA9518F2-6FA4-4838-9F86-33021B26B172}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Debug|x64.ActiveCfg = Debug|x64
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Debug|x64.Build.0 = Debug|x64
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Debug|x86.Build.0 = Debug|Win32
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Release|x64.ActiveCfg = Release|x64
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Release|x64.Build.0 = Release|x64
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Release|x86.ActiveCfg = Release|Win32
+		{DA9518F2-6FA4-4838-9F86-33021B26B172}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C71B9243-9652-4EB1-AEC4-F353049E21EE}
+	EndGlobalSection
+EndGlobal
